@@ -3,6 +3,9 @@
 Created on Tue Aug 16 16:10:35 2022
 
 @author: Hardev
+
+!!!NOTE : RUN THE FILE IN SPYDER and NOT GOOGLE COLAB !!!
+
 """
 # Importing Libraries
 import os
