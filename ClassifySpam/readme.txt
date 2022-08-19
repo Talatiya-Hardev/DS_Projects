@@ -1,0 +1,1 @@
+RUN ClassifySpam.py and put all the files in one folder
